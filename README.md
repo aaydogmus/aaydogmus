@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aaydogmus
-- 👀 I’m interested in codding
+- 👀 I’m interested in coding
 - 🌱 I’m currently learning python and marketing
 - 📫 How to reach me https://twitter.com/moonbornedd
 
